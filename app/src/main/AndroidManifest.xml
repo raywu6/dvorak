@@ -4,15 +4,16 @@
           android:versionCode="1"
           android:versionName="1.0" >
 
-
-  <uses-sdk android:minSdkVersion="16" />
+  <!-- runtime permission check API is on Android 6.0 or higher -->
+  <uses-sdk android:minSdkVersion="23" />
   <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
   <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
   <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
   <uses-permission android:name="android.permission.INTERNET" />
-  <uses-permission android:name="android.permission.ACCESS_NETWORhK_STATE" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
   <uses-permission android:name="android.permission.READ_PHONE_STATE" />
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 
   <!-- Google Play filtering --> 
   <uses-feature android:name="android.hardware.wifi.direct" android:required="true"/>
@@ -21,18 +22,34 @@
       android:allowBackup="true"
       android:icon="@mipmap/ic_launcher"
       android:label="@string/app_name"
+      android:theme="@android:style/Theme.Holo"
       android:roundIcon="@mipmap/ic_launcher_round"
       android:supportsRtl="true"
       android:theme="@style/AppTheme">
     <activity android:name=".MainActivity"
               android:label="@string/app_name"
+              android:launchMode="singleTask"
               android:screenOrientation="portrait">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
-        <action android:name="android.intent.action.VIEW" />
+        <action android:name="android.intent.action.VIEW" />
       </intent-filter>
     </activity>
+    
+    
+    <provider
+        android:name="android.support.v4.content.FileProvider"
+        android:authorities="edu.stuy.dvorak.fileprovider"
+        android:exported="false"
+        android:grantUriPermissions="true">
+        <meta-data
+        android:name="android.support.FILE_PROVIDER_PATHS"
+        android:resource="@xml/provider_paths" />
+    </provider>
+    <!-- Used for transferring files  after a successful connection -->
+    <service android:enabled="true" android:name=".FileTransferService" />
+    
   </application>
 
 </manifest>
