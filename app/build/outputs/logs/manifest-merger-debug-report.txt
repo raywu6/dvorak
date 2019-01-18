@@ -1,0 +1,196 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:2:1-38:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/0c513dd0074d00cc4cde552a9ad2da64/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/1b0297cb64a8f6657d04ed18c096eab2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/b69a672c79468671e798232ed9bce48c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0740760a0b83586748302a5393d7627d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/a610c70e2351bf9fe87767b7c553268d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/d9d4190fe0df89cc52bd6984ab775f6b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/cd3c49f42bd18183aef5e2c357b05b38/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/957c122a14ff51fc9d79b96766342375/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/aeaa84100ab81f69d976fff1b9e3a74e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e0de974b891bb498d3f945311bc5171e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/45484846d75a13b72c7d34446325d178/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/8e1595af836ef559726febe7f4f464b1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/042c7c08d4f279ad5604e7347bfae3c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/962efd04859d46cce0c859bf4a00c38d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/0c4b578bafd19fdaed5d09144368663f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dd19fa5cc209872121e97c3b8fb4d04b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ad1cc21b31eff60dd588661326a1f6d2/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/045a3262ff700b847b0c96b1e94ad5e0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f94168626ae91977ef741726d285ad85/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/f36c04cc7d1959b0cb75e075562ed075/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/9f25adf8b0b9b3b757899234e5ae671c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/5d89592615859b64f6b0cd497fa15fde/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d2af00487b384ad5c9d48f5a9f773c4f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f91aec368a4f85f043c643b8a84880d7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2647560181563db4be34877416be7878/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3fc7d0fd4d093f0c9e0794eb6e84fc48/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/54097dc2df9dcfd36dd978dbef40e5c0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:3:11-36
+		INJECTED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:5:11-36
+		INJECTED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:4:11-34
+		INJECTED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:8:3-42
+INJECTED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:8:3-42
+INJECTED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:8:3-42
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/0c513dd0074d00cc4cde552a9ad2da64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/0c513dd0074d00cc4cde552a9ad2da64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/1b0297cb64a8f6657d04ed18c096eab2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/1b0297cb64a8f6657d04ed18c096eab2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/b69a672c79468671e798232ed9bce48c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/b69a672c79468671e798232ed9bce48c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0740760a0b83586748302a5393d7627d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0740760a0b83586748302a5393d7627d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/a610c70e2351bf9fe87767b7c553268d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/a610c70e2351bf9fe87767b7c553268d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/d9d4190fe0df89cc52bd6984ab775f6b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/d9d4190fe0df89cc52bd6984ab775f6b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/cd3c49f42bd18183aef5e2c357b05b38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/cd3c49f42bd18183aef5e2c357b05b38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/957c122a14ff51fc9d79b96766342375/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/957c122a14ff51fc9d79b96766342375/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/aeaa84100ab81f69d976fff1b9e3a74e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/aeaa84100ab81f69d976fff1b9e3a74e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e0de974b891bb498d3f945311bc5171e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e0de974b891bb498d3f945311bc5171e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/45484846d75a13b72c7d34446325d178/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/45484846d75a13b72c7d34446325d178/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/8e1595af836ef559726febe7f4f464b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/8e1595af836ef559726febe7f4f464b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/042c7c08d4f279ad5604e7347bfae3c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/042c7c08d4f279ad5604e7347bfae3c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/962efd04859d46cce0c859bf4a00c38d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/962efd04859d46cce0c859bf4a00c38d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/0c4b578bafd19fdaed5d09144368663f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/0c4b578bafd19fdaed5d09144368663f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dd19fa5cc209872121e97c3b8fb4d04b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dd19fa5cc209872121e97c3b8fb4d04b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ad1cc21b31eff60dd588661326a1f6d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ad1cc21b31eff60dd588661326a1f6d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/045a3262ff700b847b0c96b1e94ad5e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/045a3262ff700b847b0c96b1e94ad5e0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f94168626ae91977ef741726d285ad85/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f94168626ae91977ef741726d285ad85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/f36c04cc7d1959b0cb75e075562ed075/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/f36c04cc7d1959b0cb75e075562ed075/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/9f25adf8b0b9b3b757899234e5ae671c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/9f25adf8b0b9b3b757899234e5ae671c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/5d89592615859b64f6b0cd497fa15fde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/5d89592615859b64f6b0cd497fa15fde/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d2af00487b384ad5c9d48f5a9f773c4f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d2af00487b384ad5c9d48f5a9f773c4f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f91aec368a4f85f043c643b8a84880d7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f91aec368a4f85f043c643b8a84880d7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2647560181563db4be34877416be7878/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2647560181563db4be34877416be7878/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3fc7d0fd4d093f0c9e0794eb6e84fc48/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3fc7d0fd4d093f0c9e0794eb6e84fc48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/54097dc2df9dcfd36dd978dbef40e5c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/54097dc2df9dcfd36dd978dbef40e5c0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:8:3-42
+INJECTED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:8:3-42
+	android:targetSdkVersion
+		INJECTED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml
+		ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:8:3-42
+		INJECTED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:8:13-39
+		INJECTED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:9:3-74
+	android:name
+		ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:9:20-71
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:10:3-74
+	android:name
+		ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:10:20-71
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:11:3-77
+	android:name
+		ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:11:20-74
+uses-permission#android.permission.INTERNET
+ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:12:3-65
+	android:name
+		ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:12:20-62
+uses-permission#android.permission.ACCESS_NETWORhK_STATE
+ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:13:3-78
+	android:name
+		ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:13:20-75
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:14:3-73
+	android:name
+		ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:14:20-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:15:3-79
+	android:name
+		ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:15:20-76
+uses-feature#android.hardware.wifi.direct
+ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:18:3-86
+	android:required
+		ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:18:61-84
+	android:name
+		ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:18:17-60
+application
+ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:20:3-36:17
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/1b0297cb64a8f6657d04ed18c096eab2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/1b0297cb64a8f6657d04ed18c096eab2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dd19fa5cc209872121e97c3b8fb4d04b/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dd19fa5cc209872121e97c3b8fb4d04b/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ad1cc21b31eff60dd588661326a1f6d2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ad1cc21b31eff60dd588661326a1f6d2/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/raymondwu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dd19fa5cc209872121e97c3b8fb4d04b/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:25:7-33
+	android:label
+		ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:23:7-39
+	android:roundIcon
+		ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:24:7-52
+	android:icon
+		ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:22:7-41
+	android:allowBackup
+		ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:21:7-33
+	android:theme
+		ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:26:7-38
+activity#edu.stuy.dvorak.MainActivity
+ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:27:5-35:16
+	android:screenOrientation
+		ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:29:15-51
+	android:label
+		ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:28:15-47
+	android:name
+		ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:27:15-43
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:30:7-34:23
+action#android.intent.action.MAIN
+ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:31:9-61
+	android:name
+		ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:31:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:32:9-69
+	android:name
+		ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:32:19-66
+action#android.intent.action.VIEW
+ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:33:9-61
+	android:name
+		ADDED from /Users/raymondwu/Documents/dvorak/app/src/main/AndroidManifest.xml:33:17-58
